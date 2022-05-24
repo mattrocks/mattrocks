@@ -1,6 +1,5 @@
 # Hi, I'm Matthew Murphy
 I'm a technical writer and digital accessibility advocate.
-
 My background is in federal HR and information systems.
 
 I write, edit, proofread, and ensure that your message is both accessible and inclusive.
